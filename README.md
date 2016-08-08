@@ -1,0 +1,2 @@
+# ashes
+My first repository!
